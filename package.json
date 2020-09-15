@@ -1,5 +1,5 @@
 {
-  "name": "unexpected-react",
+  "name": "@salomvary/unexpected-react",
   "version": "6.0.1",
   "description": "Plugin for unexpected, to allow for assertions on the React.js virtual DOM, and the shallow and test renderers",
   "scripts": {
